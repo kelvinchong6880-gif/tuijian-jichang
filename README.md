@@ -11,7 +11,7 @@
 
 | # | 机场 | 线路 | 月付起步 | 流量范围 | 节点 | 流媒体 / AI | 优惠码 |
 |:-:|---|---|---|---|---|---|---|
-| 1 | **[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)** | IEPL / IPLC 专线 | ¥25 / 150GB | 60GB–1.1TB | 主力 60 个 | 支持 | `sogo10000` |
+| 1 | **[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)** | IEPL / IPLC 专线 | ¥25 / 150GB | 60GB–1.05TB | 主力 60 个 | 支持 | `sogo10000` |
 | 2 | [飞猫云](https://tuijianjichang.blog/airport/feimaoyun/) | IPLC 专线 | ¥25 / 150GB | 50GB–1TB | 60/63 在线 | 支持 | `flycat888` |
 | 3 | [暮光](https://tuijianjichang.blog/airport/muguang/) | BGP 中转 | ¥20 / 120GB | 70GB–1.5TB | 60+ 个 | 支持 | `mm88` |
 | 4 | [微风](https://tuijianjichang.blog/airport/weifeng/) | IPLC 专线 | ¥27 / 200GB | 100GB–1.2TB | 60+ 个 | 官网未写明 | `weifeng90` |
