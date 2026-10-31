@@ -11,7 +11,7 @@
 
 | # | 机场 | 线路 | 月付起步 | 流量范围 | 节点 | 流媒体 / AI | 优惠码 |
 |:-:|---|---|---|---|---|---|---|
-| 1 | **[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)** | IPLC 专线 | ¥25 / 150GB | 60GB–1.1TB | 主力 60 个 | 支持 | `sogo10000` |
+| 1 | **[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)** | IEPL / IPLC 专线 | ¥25 / 150GB | 60GB–1.1TB | 主力 60 个 | 支持 | `sogo10000` |
 | 2 | [飞猫云](https://tuijianjichang.blog/airport/feimaoyun/) | IPLC 专线 | ¥25 / 150GB | 50GB–1TB | 60/63 在线 | 支持 | `flycat888` |
 | 3 | [暮光](https://tuijianjichang.blog/airport/muguang/) | BGP 中转 | ¥20 / 120GB | 70GB–1.5TB | 60+ 个 | 支持 | `mm88` |
 | 4 | [微风](https://tuijianjichang.blog/airport/weifeng/) | IPLC 专线 | ¥27 / 200GB | 100GB–1.2TB | 60+ 个 | 官网未写明 | `weifeng90` |
@@ -27,7 +27,7 @@
 
 ## 一分钟结论
 
-- **综合首选：[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)**，全部套餐走 IPLC 专线，¥25/月 150GB 起，另有 4 款不限时流量包。
+- **综合首选：[SOGO云](https://tuijianjichang.blog/airport/sogo-yun/)**，全部套餐走专线（月付 IEPL，不限时包 IPLC），¥25/月 150GB 起，另有 4 款不限时流量包。
 - **预算有限又要专线：[二猫云](https://tuijianjichang.blog/airport/ermaoyun/)**，IEPL 专线，¥20/月 130GB。
 - **轻度用户：[飞猫云](https://tuijianjichang.blog/airport/feimaoyun/)**，学生版 ¥84/年（每月 50GB）。
 - **流量大：[微风](https://tuijianjichang.blog/airport/weifeng/)**，御风 ¥127/月 1.2TB，全 IPLC 专线。
